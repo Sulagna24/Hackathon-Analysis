@@ -4,14 +4,12 @@
 
 A data-driven analysis of a **2-day college hackathon** organized by the campus tech club, which received over **600 team registrations**. The project involved **cleaning, analyzing, and extracting insights** from unstructured participation data using **Python and Excel**. The goal was to understand engagement trends, track project progress, and identify key performance patterns.
 
----
 
 ## 📊 Tools & Technologies
 
 - **Python (Pandas, NumPy)**
 - **Microsoft Excel**
 
----
 
 ## 🧹 Data Cleaning & Engineering
 
@@ -22,7 +20,6 @@ A data-driven analysis of a **2-day college hackathon** organized by the campus 
   - `Winner`
 - Enabled stage-wise funnel tracking: Registration → Participation → Submission → Evaluation → Awards.
 
----
 
 ## 📈 Executive Summary
 
@@ -31,7 +28,6 @@ A data-driven analysis of a **2-day college hackathon** organized by the campus 
 - Five teams were selected as winners based on creativity, feasibility, and execution.
 - A drop-off funnel was built to track disengagement points and optimize future event design.
 
----
 
 ## 🧾 Participation & Submission Breakdown
 
@@ -44,7 +40,6 @@ A data-driven analysis of a **2-day college hackathon** organized by the campus 
 | Disqualified Projects  | 90    | 15%        |
 | Final Winners Selected | 5     | <1%        |
 
----
 
 ## 🧠 Mentorship Round Insights
 
@@ -52,7 +47,6 @@ A data-driven analysis of a **2-day college hackathon** organized by the campus 
 - **Round 2**: 88% attendance — teams refined implementation and debugging.
 - Teams attending **both rounds** scored **30% higher** on final evaluation.
 
----
 
 ## 🏆 Top Performing Teams
 
@@ -64,14 +58,12 @@ A data-driven analysis of a **2-day college hackathon** organized by the campus 
 
 These teams excelled in **innovation**, **problem relevance**, **technical execution**, and **presentation**.
 
----
 
 ## 👥 Team Structure Insights
 
 - **80% of teams** had 3–5 members.
 - Solo participants showed **lower submission rates** and **satisfaction scores**.
 
----
 
 ## ✅ Recommendations for Future Events
 
@@ -80,6 +72,5 @@ These teams excelled in **innovation**, **problem relevance**, **technical execu
 - Distribute **participation certificates and swags** to improve engagement.
 - Maintain better data on project categories and tech stack for deeper analytics.
 
----
 
 
