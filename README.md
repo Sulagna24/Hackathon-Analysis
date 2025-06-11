@@ -1,4 +1,4 @@
-1. **Project Background**
+1. #Project Background
     
     A 2-day college hackathon organized by the technical club with **600 registrations and 550 final participants**. Analyzed participation and performance data using Python and Excel. Cleaned and standardized raw, unstructured data with typos and missing values. Engineered new analytical columns for insights on participation status, stage-wise progression, and winner selection patterns. 
     
